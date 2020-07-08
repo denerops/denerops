@@ -1,16 +1,19 @@
-### Hi there 👋
+## Dener Maués
+👨🏻‍💻 Engenheiro de Dados na [✈️Liberfly](https://liberfly.com.br).
 
-<!--
-**denermauesn/denermauesn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏠 Vitória/ES
 
-Here are some ideas to get you started:
+✉️ denermaues@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Formação
+Bacharel em Sistemas de Informação pela [Universidade Federal do Pará](https://portal.ufpa.br).
+
+Técnico en Informática pelo [Instituto Federal do Pará](https://ifpa.edu.br).
+### Linguagens e Tecnologias.
+- Python
+  - Análise e exploração de dados com [Pandas](https://pandas.pydata.org/)
+  - Desenvolvimento de API REST com [Flask](https://flask.palletsprojects.com/en/1.1.x/).
+  - Algoritmos de aprendizado de máquina com [scikit-learn](https://scikit-learn.org)
+- MySQL
+
+
