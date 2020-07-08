@@ -12,6 +12,7 @@ Técnico en Informática pelo [Instituto Federal do Pará](https://ifpa.edu.br).
 ### Linguagens e Tecnologias.
 - Python
   - Análise e exploração de dados com [Pandas](https://pandas.pydata.org/)
+  - Visualização de dados com [matplotlib](https://matplotlib.org/) e [plotly](https://plotly.com/python/).
   - Desenvolvimento de API REST com [Flask](https://flask.palletsprojects.com/en/1.1.x/).
   - Algoritmos de aprendizado de máquina com [scikit-learn](https://scikit-learn.org)
 - MySQL
