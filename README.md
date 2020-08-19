@@ -5,6 +5,9 @@
 
 ✉️ denermaues@gmail.com
 
+💼 Linkedin: [linkedin.com/in/denermaues/](https://www.linkedin.com/in/denermaues/)
+
+
 ### Formação
 Bacharel em Sistemas de Informação pela [Universidade Federal do Pará](https://portal.ufpa.br).
 
@@ -15,6 +18,9 @@ Técnico en Informática pelo [Instituto Federal do Pará](https://ifpa.edu.br).
   - Visualização de dados com [matplotlib](https://matplotlib.org/) e [plotly](https://plotly.com/python/).
   - Desenvolvimento de API REST com [Flask](https://flask.palletsprojects.com/en/1.1.x/).
   - Algoritmos de aprendizado de máquina com [scikit-learn](https://scikit-learn.org)
-- MySQL
+- Bancos de dados:
+  - MySQL
+  - REDIS
+- Docker
 
 
