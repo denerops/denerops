@@ -1,4 +1,4 @@
-![alt text](/assets/header.png)
+![alt text](https://github.com/denermauesn/denermauesn/assets/header.png)
 
 ## Dener Maués
 👨🏻‍💻 Engenheiro de Dados na [✈️Liberfly](https://liberfly.com.br).
