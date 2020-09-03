@@ -1,5 +1,3 @@
-![](https://github.com/denermauesn/denermauesn/blob/master/assets/header.png?raw=true)
-
 ## Dener Maués
 👨🏻‍💻 Engenheiro de Dados na [✈️Liberfly](https://liberfly.com.br).
 
