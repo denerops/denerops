@@ -19,7 +19,7 @@ Técnico en Informática pelo [Instituto Federal do Pará](https://ifpa.edu.br).
   - Desenvolvimento de API REST com [Flask](https://flask.palletsprojects.com/en/1.1.x/).
   - Algoritmos de aprendizado de máquina com [scikit-learn](https://scikit-learn.org)
 - PHP
-  - APIs REST com Lumem
+  - APIs REST com [Lumen](https://lumen.laravel.com)
 - Bancos de dados:
   - MySQL
   - REDIS
