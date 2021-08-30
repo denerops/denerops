@@ -1,5 +1,5 @@
 ## Dener Maués
-👨🏻‍💻 Engenheiro de Dados na [✈️Liberfly](https://liberfly.com.br).
+👨🏻‍💻 Engenheiro de Dados 
 
 🏠 Vitória/ES
 
